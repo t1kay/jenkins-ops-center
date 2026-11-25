@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+.env.staging
+.env.prod
+deploy/.env.staging
+deploy/.env.prod
+*.sql.gz
