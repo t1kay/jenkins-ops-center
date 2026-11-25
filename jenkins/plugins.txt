@@ -1,0 +1,12 @@
+# Cài bằng jenkins-plugin-cli lúc build image controller (xem jenkins/Dockerfile)
+workflow-aggregator
+pipeline-stage-view
+git
+github
+github-branch-source
+ssh-agent
+docker-workflow
+credentials-binding
+timestamper
+ws-cleanup
+blueocean
